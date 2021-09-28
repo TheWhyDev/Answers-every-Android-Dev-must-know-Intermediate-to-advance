@@ -10,115 +10,115 @@ Questions/Answers
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : Can we define function inside a function in kotlin, if yes, how to call the inner function? **
+**Q : Can we define function inside a function in kotlin, if yes, how to call the inner function?**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : How is the main thread in android always alive? why doesn't it die after completing execution? **
+**Q : How is the main thread in android always alive? why doesn't it die after completing execution?**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : In how many ways can you perform IPC in android? **
+**Q : In how many ways can you perform IPC in android?**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : What is reflection? **
+**Q : What is reflection?**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : How and why should we use Android keystore? **
+**Q : How and why should we use Android keystore?**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : Why network calls consume battery? **
+**Q : Why network calls consume battery?**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : Why data class can not be abstract, open, sealed, or inner? **
+**Q : Why data class can not be abstract, open, sealed, or inner?**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : why we can not add a var/val property in a secondary constructor **
+**Q : why we can not add a var/val property in a secondary constructor**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : how using the "throws"(exception) keyword makes the code robust **
+**Q : how using the "throws"(exception) keyword makes the code robust**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : How to convert list to Map **
+**Q : How to convert list to Map**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : what is "race condition" in multi threading **
+**Q : what is "race condition" in multi threading**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : what is a "backing field" in Kotlin **
+**Q : what is a "backing field" in Kotlin**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : what is Concurrency Design pattern **
+**Q : what is Concurrency Design pattern**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : what is Blocking Queue **
+**Q : what is Blocking Queue**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : Flow vs callBackflow vs channels **
+**Q : Flow vs callBackflow vs channels**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : Loosely coupled vs tightly coupled code android **
+**Q : Loosely coupled vs tightly coupled code android**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : What is young generation memory **
+**Q : What is young generation memory**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : Threads,Handler,looper,handler thread and it's interaction with UI **
+**Q : Threads,Handler,looper,handler thread and it's interaction with UI**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : ART vs DVM **
+**Q : ART vs DVM**
 
 **A : ANSWER HERE (will add soon)**
 
