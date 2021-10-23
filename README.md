@@ -11,7 +11,7 @@ Based on Official documentations:
 
 "Context is an interface to global information about an application environment. This is an abstract class whose implementation is provided by the Android system. It allows access to application-specific resources and classes, as well as up-calls for application-level operations such as launching activities, broadcasting and receiving intents, etc."
 
-In toast, if you directly pass the resource directly, the toast class uses the context to get that resource.
+In toast, if you pass the resource directly, the toast class uses the context to get that resource.
 
 Make sure you use the right context at right place other wise it may lead to memory leaks
 
