@@ -6,7 +6,20 @@ Questions/Answers
 
 **Q : what is a context or Why does Android require context ? (e.g. why even a toast requires a context?)**
 
-**A : ANSWER HERE (will add soon)**
+**A** : 
+Based on Official documentations: 
+
+"Interface to global information about an application environment. This is an abstract class whose implementation is provided by the Android system. It allows access to application-specific resources and classes, as well as up-calls for application-level operations such as launching activities, broadcasting and receiving intents, etc."
+
+In toast, if you directly pass the resource directly, the toast class uses the context to get that resource.
+
+Make sure you use the right context at right place other wise it may lead to memory leaks
+
+For e.g. if you want to pass context to singleton class, pass application context to it rather than an activities.
+
+for more info on which one to use where- checkout https://blog.mindorks.com/understanding-context-in-android-application-330913e32514
+
+Also would highly recommend that you go through the official documentation as well. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
