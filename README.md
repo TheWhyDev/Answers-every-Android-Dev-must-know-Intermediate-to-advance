@@ -9,7 +9,7 @@ Questions/Answers
 **A** : 
 Based on Official documentations: 
 
-"Context is an interface to global information about an application environment. This is an abstract class whose implementation is provided by the Android system. It allows access to application-specific resources and classes, as well as up-calls for application-level operations such as launching activities, broadcasting and receiving intents, etc."
+    "Context is an interface to global information about an application environment. This is an abstract class whose implementation is provided by the Android system. It allows access to application-specific resources and classes, as well as up-calls for application-level operations such as launching activities, broadcasting and receiving intents, etc."
 
 In toast, if you pass the resource directly, the toast class uses the context to get that resource.
 
@@ -26,10 +26,12 @@ Also would highly recommend that you go through the official documentation as we
 **Q : Can we define function inside a function in kotlin, if yes, how to call the inner function?**
 
 **A :** 
-    Yes, Kotlin supports nested functions but the scope of those nested functions is confined to the parent functions
+
+ Yes, Kotlin supports nested functions but the scope of those nested functions is confined to the parent functions
    
-   "Kotlin allows you to nest functions, one within another. We can declare and use a function within another function.
-    When you declare a function within another function, the nested functions, visibility will stay exclusively within the parent function and cannot be accessed from outside."
+ "Kotlin allows you to nest functions, one within another. We can declare and use a function within another function.
+  When you declare a function within another function, the nested functions, visibility will stay exclusively within the 
+  parent function and cannot be accessed from outside."
     
     fun main(args: Array<String>) { 
     fun nested():String { 
@@ -38,7 +40,7 @@ Also would highly recommend that you go through the official documentation as we
     println("Nested Output: ${nested()}") 
     } 
     
-    Resource : https://www.oreilly.com/library/view/functional-kotlin/9781788476485/6725edd3-33dc-41d3-8b0d-fcab12de7898.xhtml
+  Resource : https://www.oreilly.com/library/view/functional-kotlin/9781788476485/6725edd3-33dc-41d3-8b0d-fcab12de7898.xhtml
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
