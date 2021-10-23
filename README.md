@@ -42,7 +42,7 @@ Kotlin supports nested functions but the scope of those nested functions is conf
     println("Nested Output: ${nested()}") 
     } 
     
- Resource : https://www.oreilly.com/library/view/functional-kotlin/9781788476485/6725edd3-33dc-41d3-8b0d-fcab12de7898.xhtml
+ **Source** : https://www.oreilly.com/library/view/functional-kotlin/9781788476485/6725edd3-33dc-41d3-8b0d-fcab12de7898.xhtml
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
