@@ -4,7 +4,7 @@ Will be adding intermediate to advance level android/Kotlin/Java/OOPS questions 
 Questions/Answers
 
 
-**Q : what is a context or Why does Android require context ? (e.g. why even a toast requires a context?)**
+###Q : what is a context or Why does Android require context ? (e.g. why even a toast requires a context?)**
 
 **A** : 
 Based on Official documentations: 
@@ -25,7 +25,7 @@ Also would highly recommend that you go through the official documentation as we
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : Can we define function inside a function in kotlin, if yes, how to call the inner function?**
+###Q : Can we define function inside a function in kotlin, if yes, how to call the inner function?**
 
 **A :**  Yes.
 
@@ -46,31 +46,31 @@ Kotlin supports nested functions but the scope of those nested functions is conf
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : How is the main thread in android always alive? why doesn't it die after completing execution?**
+###Q : How is the main thread in android always alive? why doesn't it die after completing execution?**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : In how many ways can you perform IPC in android?**
+###Q : In how many ways can you perform IPC in android?**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : What is reflection?**
+###Q : What is reflection?**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : How and why should we use Android keystore?**
+###Q : How and why should we use Android keystore?**
 
 **A : ANSWER HERE (will add soon)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Q : Why network calls consume battery?**
+###Q : Why network calls consume battery?**
 
 **A : ANSWER HERE (will add soon)**
 
