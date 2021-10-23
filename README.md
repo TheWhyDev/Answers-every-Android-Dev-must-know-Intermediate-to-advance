@@ -27,11 +27,11 @@ Also would highly recommend that you go through the official documentation as we
 
 **Q : Can we define function inside a function in kotlin, if yes, how to call the inner function?**
 
-**A :** 
+**A :**  Yes.
 
- Yes, Kotlin supports nested functions but the scope of those nested functions is confined to the parent functions
+Kotlin supports nested functions but the scope of those nested functions is confined to the parent functions
    
- "Kotlin allows you to nest functions, one within another. We can declare and use a function within another function.
+"Kotlin allows you to nest functions, one within another. We can declare and use a function within another function.
   When you declare a function within another function, the nested functions, visibility will stay exclusively within the 
   parent function and cannot be accessed from outside."
     
@@ -42,7 +42,7 @@ Also would highly recommend that you go through the official documentation as we
     println("Nested Output: ${nested()}") 
     } 
     
-  Resource : https://www.oreilly.com/library/view/functional-kotlin/9781788476485/6725edd3-33dc-41d3-8b0d-fcab12de7898.xhtml
+ Resource : https://www.oreilly.com/library/view/functional-kotlin/9781788476485/6725edd3-33dc-41d3-8b0d-fcab12de7898.xhtml
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
