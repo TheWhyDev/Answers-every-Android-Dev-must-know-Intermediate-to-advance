@@ -21,6 +21,8 @@ For e.g. if you want to pass context to singleton class, pass application contex
 
 for more info on which one to use where- checkout https://blog.mindorks.com/understanding-context-in-android-application-330913e32514
 
+How using wrong context leads to memory leaks - check this article - https://medium.com/@banmarkovic/what-is-context-in-android-and-which-one-should-you-use-e1a8c6529652
+
 Also would highly recommend that you go through the official documentation as well. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
